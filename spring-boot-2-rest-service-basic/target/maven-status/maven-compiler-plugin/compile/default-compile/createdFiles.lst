@@ -1,0 +1,5 @@
+com\psg\test\controller\CustomerController.class
+com\psg\test\init\AppRunner.class
+com\psg\test\repository\CustomerRepository.class
+com\psg\test\domain\Customer.class
+com\psg\test\service\CustomerService.class
