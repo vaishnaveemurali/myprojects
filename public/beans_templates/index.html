@@ -1,7 +1,0 @@
-<h1>Listing all Orders:</h1>
-<ul id="orders">
-  <li ng-repeat="order in ordersCtrl.all" data-id="{{order._id}}">
-    <strong>{{order.name}}</strong> | {{order.custid}} 
-    <button ng-click="ordersCtrl.deleteOrder(order)">X</button>
-  </li>
-</ul>
